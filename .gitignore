@@ -35,6 +35,9 @@ Thumbs.db
 temp_xray.png
 test_image.jpeg
 
+# Secrets / environment
+.env
+
 # Backup folder
 backup/
 

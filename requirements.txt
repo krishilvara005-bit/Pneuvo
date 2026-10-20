@@ -1,10 +1,20 @@
-streamlit
-torch
-torchvision
-Pillow
-numpy
-opencv-python-headless
-pandas
-altair
-scikit-learn
-matplotlib
+# ── Web App ───────────────────────────────────────────────
+streamlit==1.65.0
+
+# ── Deep Learning ─────────────────────────────────────────
+torch==2.13.0
+torchvision==0.28.0
+
+# ── Image Processing ──────────────────────────────────────
+Pillow==12.3.0
+opencv-python-headless==5.0.0.93
+
+# ── Data & Visualisation ──────────────────────────────────
+numpy==2.5.4
+pandas==3.0.6
+altair==6.3.0
+matplotlib==3.11.1
+scikit-learn==1.5.2
+
+# ── Environment ───────────────────────────────────────────
+python-dotenv==1.0.1
